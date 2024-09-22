@@ -5,7 +5,7 @@ import { appStore } from "../stores/app.store";
 
 export const Controls = observer(function Controls({ localUser }) {
   const { shareScreen } = appStore;
-
+console.log("localUser::::",localUser);
   return (
     <div className="controls">
       <button

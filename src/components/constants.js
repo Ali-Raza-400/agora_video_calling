@@ -9,4 +9,4 @@
 export const appId = "4e017c610fe74330b9449b7968f03d2f";
 export const channel = "test";
 export const token =
-  "0064e017c610fe74330b9449b7968f03d2fIAAeHfmPqxzIe0HWjld7Uv2eAVqwQ0aD9GxblWYJW88f7Ax+f9gh39v0IgBsugAA7urvZgQAAQB+p+5mAwB+p+5mAgB+p+5mBAB+p+5m";
+  "0064e017c610fe74330b9449b7968f03d2fIAAc52AkskdnMe52pc6GhACDMmiOCJxqGlV/3dJu9hfDBwx+f9gh39v0IgD1JQEAa0bxZgQAAQD7AvBmAwD7AvBmAgD7AvBmBAD7AvBm";
